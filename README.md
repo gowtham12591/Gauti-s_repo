@@ -1,4 +1,2 @@
-# Gauti-s_repo
-Project codes and papers
+# Projects done during the learning phase
 
-I liKe python programming!!!
